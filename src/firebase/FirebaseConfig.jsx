@@ -5,7 +5,7 @@ import { getAuth } from "firebase/auth";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCockyzs4YrDrna4_dyg5rJs6sI81HdnQE",
+    apiKey: "API_KEY",
     authDomain: "quotted-87ee3.firebaseapp.com",
     projectId: "quotted-87ee3",
     storageBucket: "quotted-87ee3.appspot.com",
